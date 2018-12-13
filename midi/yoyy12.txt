@@ -1,0 +1,22 @@
+088120000 aggg
+
+
+089120000 tt aggg
+
+
+090120000 ttt aggg
+
+
+091120000 tgtt aggg
+
+
+092120000 tttt aggg
+
+
+093120000 ttgtt aggg
+
+
+094120000 tgttt aggg
+
+
+095120000 tgtgtt aggg

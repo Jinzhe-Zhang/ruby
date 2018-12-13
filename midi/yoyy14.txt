@@ -1,0 +1,22 @@
+104120000 aggg
+
+
+105120000 tt aggg
+
+
+106120000 ttt aggg
+
+
+107120000 tgtt aggg
+
+
+108120000 tttt aggg
+
+
+109120000 ttgtt aggg
+
+
+110120000 tgttt aggg
+
+
+111120000 tgtgtt aggg

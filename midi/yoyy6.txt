@@ -1,0 +1,22 @@
+040120000 aggg
+
+
+041120000 tt aggg
+
+
+042120000 ttt aggg
+
+
+043120000 tgtt aggg
+
+
+044120000 tttt aggg
+
+
+045120000 ttgtt aggg
+
+
+046120000 tgttt aggg
+
+
+047120000 tgtgtt aggg
