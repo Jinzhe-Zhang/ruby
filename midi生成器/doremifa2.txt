@@ -1,0 +1,10 @@
+011110000                     #音色011（八音盒）,速度110,起始为C大调（000不变调）
+a s d f j k l ; 
+bbbbb
+a s d f j k l ; #你感觉音量小了
+55555
+a s d f j k l ; #你感觉音量回来了
+B
+a s d f j k l ; a s d f j k l ; a s d f j k l ; #你感觉音量越来越小了
+%
+a s d f j k l ; a s d f j k l ; a s d f j k l ; #你感觉音量越来越大了，直到回来 

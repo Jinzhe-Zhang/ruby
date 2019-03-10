@@ -1,0 +1,29 @@
+011110000                     #音色011（八音盒）,速度110,起始为C大调（000不变调）
+a s d f j k l ; 
+A # 升do
+S #升re
+F #升fa
+J #升so(比j高半音)
+Kggg
+q w e r u i o p   #这一组高了八度
+Q
+W
+R
+U
+Iggg
+z x c v m , . /  #这一组低了八度
+Z X V M <ggg
+1 2 3 4 7 8 9 0 #这一组高了两个八度
+! @ $ & *ggg
+^ #高一个八度标志
+a s d f j k l ; #这回你听到的是高一个八度的do re mi fa so la si do
+N #低一个八度标志
+a s d f j k l ; #音准回来了
+N
+a s d f j k l ; #这回你听到的是低一个八度的do re mi fa so la si do
+^
+a s d f j k l ; #音准回来了
+n # 低一个半音标志
+a s d f j k l ;
+6 # 高一个半音标志
+a s d f j k l ;

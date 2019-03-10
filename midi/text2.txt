@@ -1,0 +1,136 @@
+053065-02    '      gg m  #10235 s d
+                    agg a sgg s (00192 00000 00000 00000 00000 00000 00000 00512 00512 00512 00512 00512 00256 00000 ) dgg ,ggg m #
+                    fg dgg gh ag mttt  #
+                    ag . a sg jg f d s a ,gg m #
+                    ,ggg ag d stttg #
+                    agg a sgg s (00192 00000 00000 00000 00000 00000 00000 00512 00512 00512 00512 00512 00256 00000 ) dgg ,ggg m #
+                    fg d f dg a s jtgtg a 55 #
+                    kg J k lg jg sgg j dgg , bb #
+                    fg dg .g m s attt ################### 55 #
+
+
+000065-24           C100bbbbbgt
+                    tttt
+                    tttt
+                    tttt
+                    tgtt [bbbFh Fh F F F 555] w q k f 
+                    .F F sF F F .F sF F .F F sF F F .F sF F 
+                    .F F sF F F .F sF F .F F sF F Fh Jh .F sF F 
+                    .F F sF F F .F sF F .F F sF F F .F sF F 
+                    .F F sF F F .F sF F .F F sF F Fh Jh .F sFj Fl 
+
+
+026065-14           C033bbbbbbtt
+                    [qtt wtt jtt ktt rtt ett jttt att stt ftt ,tt ,tt att sttt] ftt ltt jmttt
+                    qtt wtt dtt fg jg
+                    ftt ltt frtt fg jg
+                    qtt rtt w j k q l q w e 5
+                    yfkqt fkq kq j jlw jlw jlw
+                    m.jg m.j .jg adk adk adk
+                    yfkqt fkq kq j sjl sjl sjl
+                    555^j dh fh j a . a s dm Nbbbb
+                    lwrg  j;eg  bbjqt55 jug 5
+                    lwggg e w q l bb
+                    s d fg mggg  
+                    yd;ttt 5
+
+
+029065-14           C000bbbbtt
+                    tttttt
+                    yfkqt fkq kq j jlw jlw jlw
+                    m.jg m.j .jg adk adk adk
+                    yfkqt fkq kq j sjl sjl sjl
+                    555^j dh fh j a . a s dm Nb
+                    lwrg  j;eg  bbjqt55 jug 5
+                    lwggg e w q l bb
+                    s d fg mggg 
+                    yd;ttt 5 
+
+
+
+053065-24           C100
+                    tttt
+                    tttt
+                    tttt
+                    tgtgtg m 
+
+
+000065-24           .F F sF F F .F sF F .F F sF F F .F sF F 
+                    .F F sF F F .F sF F .F F sF F F .F sF F 
+                    bbbbbb aF F F F F F F F aF F F F F F F F 
+                    F F F F F F F F .F F sF F Fw .Fq sFk Ff 555555
+
+
+026065-14           bbfkqt fkqhg kqh j jlw jlw jlw
+                    m.jg m.jhg .jh h ,dkh ,dk ,dk ,sf
+                    fkqt fkqhg jlwhg jqu1 lwo qu
+                    deg ysfhg ymdjhggg a    
+                    tttt
+                    ttt
+                    ^, . / s j f d a              
+
+
+029065-14           ktt ltt jtt ktt 
+                    ftt [bbbgh q l ju 555] jtt [bbbttg 1 o u 555] dttt
+                    dktt sltt ajt slt .kt azt 
+                    ,ft d j mjtt [tt a s d gh ] cdttt
+
+
+074065-14           ttttt
+                    bb^^kgg lh ;h lggg
+                    jgg dh jh kggg
+                    fg d a sggg
+                    'atttNN55
+
+
+090065-14           bbbbttttt
+                    ^^^adktt sfltt .sjt madt madtt c,tt xmtt  [bb, . / s j f d a 55] ctttNNN
+
+
+
+053065-02    '      agg a sgg s (00192 00000 00000 00000 00000 00000 00000 00512 00512 00512 00512 00512 00256 00000 ) dgg ,ggg m 
+                    fg d f dg a s jtgtg a 55
+                    kg J k lg jg sgg j dgg , bb
+                    fg dg .g m s attt ################### 55
+                    kg J k lg jg sgg j dgg tttgg , bb BB
+                    fg dg .g m s attt ###################
+
+
+000065-24           C100
+                    .F F sF F F .F sF F .F F sF F F .F sF F 
+                    .F F sF F F .F sF F .F F sF F Fh Jh .F sF F 
+                    .F F sF F F .F sF F .F F sF F F .F sF F 
+                    .F F sF F F .F sF F .F F sF F Fh Jh .F sFj Fl D060
+                    .F F sF F F .F sF F .F F sF F BBF F F F 
+                     ttt  D055F F F F F F F F F F F F F F F F F F F F F F F 
+
+
+026065-14           C033
+                    bbbbbfkqt fkq kq j jlw jlw jlw
+                    m.jg m.j .jg adk adk adk
+                    yfkqt fkq kq j sjl sjl sjl
+                    555^j dh fh j a . a s dm Nbbbb
+                    lwrg  j;eg  bbjqt55 jug 5
+                    lwggg e w q l bb
+                    s d fg mggg  
+                    yd;ttt 5
+                    lwrg  j;eg  bbjqt55 jug 5
+                    lwggtgg yyyyyjkqertttgg bb
+                    s d fg mggg  
+                    yd;ttt 5
+
+
+029065-14           bbbbbC000
+                    fkqt fkq kq j jlw jlw jlw
+                    m.jg m.j .jg adk adk adk
+                    yfkqt fkq kq j sjl sjl sjl
+                    555^j dh fh j a . a s dm Nb
+                    lwrg  j;eg  bbjqt55 jug 5
+                    lwggg e w q l bb
+                    s d fg mggg 
+                    yd;ttt 5 
+                    lwrg  j;eg  bbjqt55 jug 5
+                    lwggtgg yyyyyjkqertttgg bb
+                    s d fg mggg  
+                    yd;ttt 5
+                    h yyyyyadttt

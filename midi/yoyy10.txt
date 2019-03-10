@@ -1,0 +1,22 @@
+072120000 aggg
+
+
+073120000 tt aggg
+
+
+074120000 ttt aggg
+
+
+075120000 tgtt aggg
+
+
+076120000 tttt aggg
+
+
+077120000 ttgtt aggg
+
+
+078120000 tgttt aggg
+
+
+079120000 tgtgtt aggg
