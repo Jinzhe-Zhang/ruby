@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 begin
 $aa=Array.new(4){Array.new(1<<20) {0}}
 $sum=0
@@ -23,15 +22,4 @@ rescue Exception => e
     puts e.backtrace.inspect
     puts e.message
 end
-
-=======
-class E
-      @cust_id
-      @cust_name
-      @cust_addr
-end
-e=E.new
-e.@cust_addr
-print e
->>>>>>> 67d494db6b4529a9445e8f18497402d4624b3721
 system "pause"
