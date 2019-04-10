@@ -1,48 +1,56 @@
 require "tk"
 begin
-root = TkRoot.new() { title "Today's Date" }
+root = TkRoot.new() { title "move" }
 str = Time.now.strftime("Today is \n%B %d, %Y")
-image = TkPhotoImage.new
-image.file = "1.gif"
-image2 = TkPhotoImage.new
-image2.file = "1.gif"
+iMage = TkPhotoImage.new
+iMage.file = File.dirname(__FILE__)+"../未命名.gif"
+image=Array.new(3) {|i|TkPhotoImage.new.copy(iMage,:from=>[i*32,0,i*32+32,32]) }
 
 lab = TkLabel.new(root) 
+xt=TkProgressbar.new(root)
+xt.place('width'=>32,
+  'height'=>10,
+  'y'=>70)
+variable=TkVariable.new
+xt.variable=variable
+variable.value=50
+xt.maximum=100
       t1=Thread.new{@y||=60
-      	lab.image = image
+      	lab.image = image[0]
       	lab.width =lab.height =32
-      	lab.place('x'=>80)
+      	lab.place('y'=>80)
             loop{
                   
-                 	lab.image = image
-                  lab.image.height =32
-                  lab.image.width =96
-                        lab.place('y'=>@y) 
+                 	lab.image = image[0]
+                        lab.place('x'=>@y) 
+                        xt.place('x'=>@y)
+                   @y+=1
+                   variable.value =variable.value.to_i%100+1
+                   print variable.value
+                   sleep(0.1)
+                     	lab.image = image[1]
+                        lab.place('x'=>@y) 
+                        xt.place('x'=>@y)
+                   variable.value =variable.value.to_i%100+1
                    @y+=1
                    sleep(0.1)
-                     	lab.image = image
-                  lab.image.height =32
-                  lab.image.width =160
-                        lab.place('y'=>@y) 
-                   @y+=1
-                   sleep(0.1)
-                     	lab.image = image
-                  lab.image.height =32
-                  lab.image.width =96
-                        lab.place('y'=>@y) 
+                     	lab.image = image[2]
+                        lab.place('x'=>@y) 
+                        xt.place('x'=>@y)
+                   variable.value =variable.value.to_i%100+1
                    @y+=1
                    sleep(0.1) 
-                     	lab.image = image  
-                  lab.image.height =32
-                  lab.image.width =32
-                        lab.place('y'=>@y) 
+                     	lab.image = image[1] 
+                        lab.place('x'=>@y) 
+                        xt.place('x'=>@y)
+                   variable.value =variable.value.to_i%100+1
                    @y+=1
                    sleep(0.1)
-                   image = TkPhotoImage.new 
-                   image.file ="1.gif"
             }
       }
         
+
+  
 
 Tk.mainloop
 rescue Exception => e

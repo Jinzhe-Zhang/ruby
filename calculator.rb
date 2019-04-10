@@ -1,45 +1,21 @@
-#!/usr/bin/env ruby
-begin 
-	require 'tk'
-
-	def frame(root)
-		f = TkFrame.new(root)
-		f.pack(:padx=>5,:pady=>2)
-		return f
-	end
-
-	LEFT = {:side=>'left',:padx=>2}
-
-	root = TkRoot.new{title "simple calculator"}
-
-	var_ans = TkVariable.new
-
-	fr1 = frame(root)
-	TkEntry.new(fr1) do
-		textvariable var_ans
-		width 18
-		pack LEFT
-	end
-	for key in ['123','456','789','+0.','-*/','()='] do
-		f = frame(root)
-		key.each_char do |c|
-
-			TkButton.new(f) do
-				text c
-				width 4
-				command proc {
-					c=='='? var_ans.value = eval(var_ans.value):var_ans.value +=c
-				}
-				pack LEFT
-			end
-		end
-	end
-
-	var_ans.value =""
-
-	root.mainloop
-rescue Exception => e
-	puts e.backtrace.inspect
-	puts e.message
+puts "Please input Number1:"
+number1 = gets
+puts "Please input a operator(+,-,*,/):"
+op = gets
+puts "Please input Number2:"
+number2 = gets
+case op.chomp
+ when "+"
+  result = number1.to_i + number2.to_i
+ when "-"
+  result = number1.to_i - number2.to_i
+ when "*"
+  result = number1.to_i * number2.to_i
+ when "/"
+  result = number1.to_i / number2.to_i
 end
+puts "Result: #{number1.chomp} #{op.chomp} #{number2.chomp} = #{result}"
 
+
+
+system"pause"

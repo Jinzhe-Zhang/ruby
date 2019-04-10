@@ -3,9 +3,9 @@ begin
 root = TkRoot.new() { title "Today's Date" }
 str = Time.now.strftime("Today is \n%B %d, %Y")
 image = TkPhotoImage.new
-image.file = "d.gif"
+image.file = File.dirname(__FILE__)+"../d.gif"
 image2 = TkPhotoImage.new
-image2.file = "圣灵古堡.gif"
+image2.file = File.dirname(__FILE__)+"../圣灵古堡.gif"
 lab = TkLabel.new(root) do
         pack("padx" => 150)
       end
